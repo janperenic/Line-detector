@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="290mm" height="190mm" viewBox="0 0 290 190" version="1.1" id="svg5" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+<g id="checkers">
+<rect width="30" height="30" x="10" y="5"></rect>
+<rect width="30" height="30" x="70" y="5"></rect>
+<rect width="30" height="30" x="130" y="5"></rect>
+<rect width="30" height="30" x="190" y="5"></rect>
+<rect width="30" height="30" x="250" y="5"></rect>
+<rect width="30" height="30" x="40" y="35"></rect>
+<rect width="30" height="30" x="100" y="35"></rect>
+<rect width="30" height="30" x="160" y="35"></rect>
+<rect width="30" height="30" x="220" y="35"></rect>
+<rect width="30" height="30" x="10" y="65"></rect>
+<rect width="30" height="30" x="70" y="65"></rect>
+<rect width="30" height="30" x="130" y="65"></rect>
+<rect width="30" height="30" x="190" y="65"></rect>
+<rect width="30" height="30" x="250" y="65"></rect>
+<rect width="30" height="30" x="40" y="95"></rect>
+<rect width="30" height="30" x="100" y="95"></rect>
+<rect width="30" height="30" x="160" y="95"></rect>
+<rect width="30" height="30" x="220" y="95"></rect>
+<rect width="30" height="30" x="10" y="125"></rect>
+<rect width="30" height="30" x="70" y="125"></rect>
+<rect width="30" height="30" x="130" y="125"></rect>
+<rect width="30" height="30" x="190" y="125"></rect>
+<rect width="30" height="30" x="250" y="125"></rect>
+<rect width="30" height="30" x="40" y="155"></rect>
+<rect width="30" height="30" x="100" y="155"></rect>
+<rect width="30" height="30" x="160" y="155"></rect>
+<rect width="30" height="30" x="220" y="155"></rect>
+
+</g>
+</svg>
