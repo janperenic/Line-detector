@@ -1,1 +1,9 @@
-Program je namenjen za avtomatsko detekcijo roba tikovega poda, pridobljenega iz bark. Tako ni potrebno ročno rezati poda, vendar lahko .dxf datoteko pošljemo na CNC, ki nam obreže les v želeno oblik.
+Program je namenjen za avtomatsko detekcijo roba tikovega poda, pridobljenega iz bark.
+Tako ni potrebno ročno rezati poda, vendar lahko .dxf datoteko pošljemo na CNC, ki nam obreže les v želeno oblik.
+
+
+Če zeliš posebaj zagnati camera_calibration, mapo odpri v drugem vs code oknu, preveri tudi
+velikost slike, orientacijo slike, in izberi pravo velikost sahovnice in stevilo
+kvadratkov na njej
+
+For camera calibration we use code from: https://github.com/niconielsen32
